@@ -8,6 +8,8 @@ The user can use mouse to locate a center by click and set the radius by drag, t
 
 ## Fit Circle
 
+## USE
+The executables were provided
 
 ## Technologies
 
