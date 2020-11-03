@@ -11,7 +11,7 @@ The user can use mouse to locate a center by click and set the radius by drag, t
 <img src="https://github.com/cchun319/GUI_fun/blob/main/fitting.gif" width="300" height="300"/>
 
 ## USE
-:hammer:The executables were provided  <!-- emoji-->
+:hammer:The executables were provided  <!-- emoji-->  
 :pick:Or download the source code and use your path of the directory to run
 >```` <!-- code block && block quote-->
 >  C:<your_path>\javac fittingcircle.jar 
