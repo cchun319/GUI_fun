@@ -13,6 +13,13 @@ The user can use mouse to locate a center by click and set the radius by drag, t
 ## USE
 The executables were provided
 
+## Analisis
+
+Function | Time | Space
+--- | --- | ---
+Fitting Circle | <img src="https://render.githubusercontent.com/render/math?math=O(n^{2})"> | <img src="https://render.githubusercontent.com/render/math?math=O(mn)">
+Finding Min/Max Radius | 2 | 3
+
 ## Technologies
 JAVA
 
