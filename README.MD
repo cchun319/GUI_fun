@@ -1,6 +1,6 @@
 # GUI_fun Projects <!-- title-->
 * [1.Draw Circle](#draw-circle) <!-- list & wayfinder-->
-* [1.Fit Circle](#fit-circle)
+* [2.Fit Circle](#fit-circle)
 
 ## Draw Circle <!-- title2-->
 The user can use mouse to locate a center by click and set the radius by drag, then the app shall find the two radius to include all the crossing points  
